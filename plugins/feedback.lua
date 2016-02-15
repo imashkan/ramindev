@@ -21,7 +21,7 @@ local fuses = '!printf user#id' .. msg.from.id
 
                  local sends0 = send_msg('101854916', fuse, ok_cb, false)
 
- return 'پیام شما با موفقیت به تیم قدرتمند فایر فرستاده شد.'
+ return 'پیام شما با موفقیت به تیم قدرتمند تله 85 فرستاده شد.'
 
      
 
