@@ -232,14 +232,14 @@ function create_config( )
     "linkpv",
     "addplug"
     },
-    sudo_users = {81444630},--Sudo users
+    sudo_users = {111041070},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[#Telefire #v5 - #thankyou #very #mach
+    about_text = [[#Tele 85 #v5 - #thankyou #very #mach
 شما را بخاطر انتخاب فایر تحسین میکنیم
 
 #Admins_sudo
-@ashi_admin1_kaboos
+@Wow_SARBAZ_devil_woW
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -306,7 +306,7 @@ This command will send text to [group_id]
 
 
 
-#sudo_user @ashi_admin1_kaboos
+#sudo_user @Wow_SARBAZ_devil_woW
 ]],
     help_text = [[
 Commands list :
@@ -404,7 +404,7 @@ will return group logs
 banlist
 will return group ban list
 
-#sudo_user @ashi_admin1_kaboos
+#sudo_user @Wow_SARBAZ_devil_woW
 
 ]]
   }
